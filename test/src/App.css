@@ -1,0 +1,27 @@
+#root {
+  margin: 1rem;
+}
+
+.upper-part {
+  height: 50vh;
+  background-color: blue;
+}
+
+.bottom-part {
+  padding-top: 200px;
+  height: 50vh;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  gap: 50px;
+  color: black;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.App {
+  margin: 20px;
+}
